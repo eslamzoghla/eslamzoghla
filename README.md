@@ -1,4 +1,5 @@
-![coollogo_com-32638867](https://github.com/eslamzoghla/eslamzoghla/assets/95759229/58a07b41-aced-46ac-99fc-dd90e5eced8f)
+
+![coollogo_com-27055574](https://github.com/eslamzoghla/eslamzoghla/assets/95759229/01714d87-edac-4b1d-b11a-75d0783bcc5b)
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
