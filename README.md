@@ -67,6 +67,12 @@
 ## Top Languages by Repo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamzoghla&theme=dracula)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eslamzoghla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=eslamzoghla&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/eslamhany.zoghla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslamzoghla/" height="30" width="40" /></a>
