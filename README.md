@@ -1,21 +1,26 @@
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/top.svg" alt="Github Stats" />
+</p>
 ![coollogo_com-27055574](https://github.com/eslamzoghla/eslamzoghla/assets/95759229/01714d87-edac-4b1d-b11a-75d0783bcc5b)
-
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamzoghla" alt="Gift's LangStat" />
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamzoghla&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-
-### <b>:zap: GitHub Profile Stat</b>
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ### <b>:zap: GitHub Profile Stat</b>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eslamzoghla&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 ### Hi there，I'm Eslam Zoghla 🙋‍♂
 
 - Open source is something I'm interested in.
 - Artificial intelligence is an area I'm focusing on right now.
+
+ <div>
+   <img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamzoghla" alt="Gift's LangStat" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamzoghla&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+
+
+
 
 
 
@@ -79,5 +84,7 @@
  <a href="https://www.linkedin.com/in/eslam-zoghla-9419531b8/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 </p>
