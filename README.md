@@ -1,11 +1,9 @@
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/top.svg" alt="Github Stats" />
-</p>
 ![coollogo_com-27055574](https://github.com/eslamzoghla/eslamzoghla/assets/95759229/01714d87-edac-4b1d-b11a-75d0783bcc5b)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  ### <b>:zap: GitHub Profile Stat</b>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eslamzoghla&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
